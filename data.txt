@@ -1,0 +1,11 @@
+Operation System=Linux
+CPU name=
+CPU load=0.5
+CPU cores=16
+Current CPU frequency=2093
+Minimal CPU frequency=1550
+Maximum CPU frequency=3200
+Free memory(MiB)=13517
+Processes count=312
+Active user=woopmd
+Free space on /(GiB)=11.920516967773438
