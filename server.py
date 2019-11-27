@@ -11,7 +11,7 @@ quit - Quit
 """
 
 sock = socket.socket()
-sock.bind(('188.227.126.139', 5938))
+sock.bind(('127.0.0.1', 3938))
 sock.listen(5)
 connections = dict()
 logs = list()
