@@ -22,3 +22,6 @@ python3 client.py conf.ini
 
 ## Description
 Client make .html file with information and send it to server.
+
+
+aaaaaaaa
